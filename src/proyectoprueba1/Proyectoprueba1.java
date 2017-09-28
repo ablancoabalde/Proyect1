@@ -16,9 +16,12 @@ public class Proyectoprueba1 {
      */
         public static void main(String[] args) {
         // TODO code application logic here
+        String hola = "hola";
+        System.out.println(hola);
         System.out.println("Hola");
-        System.out.println("Hola");
-                       
+        
+        //Haciendo cambios
+        
     }
     
 }
